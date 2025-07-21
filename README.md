@@ -1,7 +1,7 @@
 # 🛡️ Fraud Detection Project (10 Academy – Week 8 & 9)
 
 An end-to-end machine learning pipeline to detect fraud from two real-world datasets.
-
+# 🧠  Task 1 EDA
 
 1. Load Raw Datasets
 Fraud_Data.csv: Transaction and user metadata (IP, device, age, etc.)
@@ -134,8 +134,8 @@ ROC-AUC Score: Measures the classifier's ability to distinguish between classes.
 PR-AUC Score (Average Precision Score): This is a critical metric for imbalanced datasets. It focuses on the minority class and measures the trade-off between precision and recall across different thresholds. A higher PR-AUC indicates better performance in identifying the positive class without generating an excessive number of false positives.
 
 
-##Task 3 Model Explainability
- 
+# 🧠  Task 3 Model Explainability
+
 This README summarizes Task 3 of the Fraud Detection Project, focusing on understanding why our best model makes its predictions.
 
  This task aims to demystify our best-performing fraud detection model by explaining its decision-making process.
